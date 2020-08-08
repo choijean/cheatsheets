@@ -1,0 +1,32 @@
+==========
+- ACCESS -
+==========
+Login:                          psql  -h <hostname>
+                                      -d <dbname>
+                                      -U <username>
+                                      -W (force password prompt)
+Quit:                           \q
+
+========
+- VIEW -
+========
+
+list all tables:                \dt
+list available databases:       \l
+list available schema:          \dn
+list available views:           \dv
+describe a table:               \d <tablename>
+
+============
+- COMMANDS -
+============
+
+display command history:        \s
+save command history to file:   \s <filename>
+execute commands from file:     \i <filename>
+see all commands:               \?
+
+========
+- MISC -
+========
+

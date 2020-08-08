@@ -1,0 +1,25 @@
+==================
+- SEARCH/REPLACE -
+==================
+search and replace                    :%s/old/new/<flags>
+  flags:  replace all                   g
+          case insensitive              i
+          confirm each                  c
+
+=================
+- COPY/CUT/PASTE-
+=================
+copy:
+  - line                              yy
+  - word (cursor to next word)        yw
+  - to end of line                    y$
+cut:
+  - line                              dd
+  - word (cursor to next word)        dw
+  - to end of line                    d$ or D
+paste:
+  - after cursor                      p
+  - before cursor                     P
+
+
+

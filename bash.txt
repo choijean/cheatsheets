@@ -1,0 +1,30 @@
+==========
+- CURSOR -
+==========
+go to beginning of line               CTRL + A or CMD + ->
+go to end of line                     CTRL + E or CMD + <-
+back one word                         ALT  + B
+forward one word                      ALT  + F
+back one character                    CTRL + B
+forward one character                 CTRL + F
+
+==========
+- DELETE -
+==========
+delete character under cursor         CTRL + D
+delete one word before cursor         CTRL + W
+delete until end of line              CTRL + K
+delete entire line                    CTRL + U
+
+========
+- TYPO -
+========
+swap current word with prev word      ALT  + T
+swap last two char before cursor      CTRL + T
+undo last key press                   CTRL + _
+
+
+==============
+- CAPITALIZE -
+==============
+capitalize character under cursor     ALT  + C

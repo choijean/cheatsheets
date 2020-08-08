@@ -1,0 +1,41 @@
+============
+-  BRANCH  -
+============
+delete branch locally:                git branch -d <localbranchname>
+delete branch locally (forced):       git branch -D <localbranchname>
+delete branch remotely:               git push origin --delete <remotebranchname>
+create a branch and go to it:         git checkout -b <branchname>
+
+=================
+- RENAME BRANCH -
+=================
+1. switch to to local branch          git checkout <oldname>
+2. rename local branch                git branch -m <newname>
+3. push new local & reset upstream    git push origin -u <newname>
+4. delete old remote branch           git push origin --delete <oldname>
+
+=========
+- MERGE -
+=========
+1. switch to branch                   git checkout -b <branchname>
+    or to master                      git checkout master
+2. merge desired branch               git merge <anotherbranchname>
+
+========
+- LOGS -
+========
+show commit logs                      git log
+  o on single line                      --oneline 
+  o info about each commit              --decorate 
+  o log history branch structure        --graph
+  o by commit date                      --since="yesterday"
+                                        --since="2 weeks ago"
+  o by author                           --author="Jean"
+  o by regex                            --grep <regex>
+
+=================
+- CLEAN COMMITS -
+=================
+delete untracked files                git clean
+  o files                               -f
+  o directory                           -d

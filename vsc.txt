@@ -1,0 +1,21 @@
+==========
+- EDITOR -
+==========
+Close folder                            CMD + K, F
+Split editor                            CMD + \
+
+================
+- FIND/REPLACE -
+================
+Find                                    CMD + F
+Replace                                 OPT + CMD + F
+Find next/previous                      CMD + G / SHFT + CMD + G
+Select all occurences of Find match     OPT + RET
+
+
+==========
+- STYLES -
+==========
+comment out multiple lines:             SHFT + ALT + A
+comment out multiple lines:             CTRL + /
+indent right:                           CMD + ]

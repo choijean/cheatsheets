@@ -1,0 +1,2 @@
+
+kill localhost:                         sudo lsof -t -i tcp:<hostnumber> | xargs kill -9
