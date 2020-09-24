@@ -6,9 +6,9 @@ search and replace                    :%s/old/new/<flags>
           case insensitive              i
           confirm each                  c
 
-=================
-- COPY/CUT/PASTE-
-=================
+===========================
+- COPY/CUT/PASTE & RENAME -
+===========================
 copy:
   - line                              yy
   - word (cursor to next word)        yw
@@ -21,5 +21,11 @@ paste:
   - after cursor                      p
   - before cursor                     P
 
+rename                                mv <old_name> <new_name>
+          
+========
+- MISC -
+========
+remove directory recursively          rm -rf <directory_name>
 
 
