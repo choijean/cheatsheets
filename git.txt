@@ -39,3 +39,12 @@ show commit logs                      git log
 delete untracked files                git clean
   o files                               -f
   o directory                           -d
+
+===========
+- SCRIPTS -
+===========
+number of lines written by author between 2 commits:
+
+  git log --numstat --pretty="%H" --author="<author name>" \
+  <commit1>..<commit2> | awk 'NF==3 {plus+=$1; minus+=$2} END \
+  {printf("+%d, -%d\n", plus, minus)}'

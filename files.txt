@@ -1,0 +1,5 @@
+===========
+- FOLDERS -
+===========
+o remove folder recusively        rm -rf <folder_name>
+

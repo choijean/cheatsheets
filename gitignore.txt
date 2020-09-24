@@ -1,0 +1,23 @@
+=========
+- BASIC -
+=========
+literal file name                     .file_name
+directory                             dir/
+dir wildcard                          **
+comments                              #comment
+
+============
+- NEGATION -
+============
+negate an ignored file                *.log
+                                      !example.log (not ignored)
+
+===========
+- UNTRACK -
+===========
+untrack a committed file              git rm --cached FILENAME
+
+=========
+- DEBUG -
+=========
+show where files are being ignored    git check-ignore -v example.log
