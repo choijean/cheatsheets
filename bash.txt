@@ -23,7 +23,6 @@ swap current word with prev word      ALT  + T
 swap last two char before cursor      CTRL + T
 undo last key press                   CTRL + _
 
-
 ==============
 - CAPITALIZE -
 ==============

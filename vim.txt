@@ -21,11 +21,4 @@ paste:
   - after cursor                      p
   - before cursor                     P
 
-rename                                mv <old_name> <new_name>
-          
-========
-- MISC -
-========
-remove directory recursively          rm -rf <directory_name>
-
 
