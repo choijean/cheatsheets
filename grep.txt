@@ -1,0 +1,12 @@
+==========
+- COMMON -
+==========
+search string in file                   grep "regex" <filename>
+search recursively in all files         grep -r "regex" * 
+
+=========
+- FLAGS -
+=========
+case insensitive                        -i
+count lines                             -c
+show file names                         -l
