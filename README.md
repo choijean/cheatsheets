@@ -1,13 +1,5 @@
 <!-- omit in toc -->
-# PROJECT
-
-[Badges](https://shields.io/)
-
-Link to site: [Site](https://example.com)
-
----
-
-PROJECT is a ____________ that does ________________. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus tellus ac nunc aliquet suscipit. Fusce ultricies in est et aliquam. Suspendisse sit amet mattis nisi. Vivamus mauris ante, ullamcorper et libero suscipit, tempus mollis ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum purus erat, iaculis sit amet auctor at, lobortis sed purus. Nulla dignissim lorem ac risus elementum facilisis. Ut ac diam sapien. Mauris in lacinia magna. Integer laoreet blandit odio non tincidunt. Sed iaculis efficitur fermentum. Ut sagittis sapien in urna porta, id pretium magna iaculis. Aenean faucibus suscipit odio sed fringilla.
+# Cheat Sheets
 
 <!-- omit in toc -->
 ## Table of Contents 📖
