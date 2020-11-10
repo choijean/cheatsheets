@@ -1,203 +1,149 @@
-# **~ooo~**
-*~ooo~*
+<!-- omit in toc -->
+# PROJECT
 
-<br />
+[Badges](https://shields.io/)
 
-### Welcome to ~ooo~!
-<hr>
+Link to site: [Site](https://example.com)
 
-This ~ooo~
+---
 
-<br />
+PROJECT is a ____________ that does ________________. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean finibus tellus ac nunc aliquet suscipit. Fusce ultricies in est et aliquam. Suspendisse sit amet mattis nisi. Vivamus mauris ante, ullamcorper et libero suscipit, tempus mollis ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum purus erat, iaculis sit amet auctor at, lobortis sed purus. Nulla dignissim lorem ac risus elementum facilisis. Ut ac diam sapien. Mauris in lacinia magna. Integer laoreet blandit odio non tincidunt. Sed iaculis efficitur fermentum. Ut sagittis sapien in urna porta, id pretium magna iaculis. Aenean faucibus suscipit odio sed fringilla.
 
-### Table of Contents 📖
-<hr>
+<!-- omit in toc -->
+## Table of Contents 📖
 
-  - [Welcome](#welcome-to-~ooo~)
-  - [**Get Started**](#get-started-)
-  - [Usage](#usage-)
-  - [Technologies](#technologies-)
-  - [Contribute](#Contribute-)
-  - [Acknowledgements](#acknowledgements-)
-  - [License/Stats/Author](#license-stats-author-)
+- [Features ✨](#features-)
+- [Technologies ⚙️](#technologies-️)
+- [Installation 🛠](#installation-)
+- [Deploy 🚀](#deploy-)
+  - [Development 📝](#development-)
+  - [Production 🖥](#production-)
+- [Contributing 👥](#contributing-)
+- [Authors & Acknowledgements 🎉](#authors--acknowledgements-)
+- [License 📄](#license-)
+- [CHEAT SHEET](#cheat-sheet)
+  - [Text](#text)
+  - [Lists & Tables](#lists--tables)
+  - [Code formatting](#code-formatting)
+  - [Links](#links)
+  - [Embedded Images](#embedded-images)
+    - [Pure Markdown](#pure-markdown)
+    - [HTML](#html)
 
-<br />
+## Features ✨
 
-### Get Started 🚀
-<hr>
+- Lorem
+- Ipsum
+- Dolor
 
-~ooo~
+## Technologies ⚙️
 
-<br />
+## Installation 🛠
 
-### Usage ⚙
-<hr>
+## Deploy 🚀
 
-~ooo~
+### Development 📝
 
-<br />
+### Production 🖥
 
-### Technologies 🧰
-<hr>
+## Contributing 👥
 
-  - [flip.js](https://google.com)
-  - [flop.js](https://google.com)
-  - [flap.js](https://google.com)
+## Authors & Acknowledgements 🎉
 
-<br />
+## License 📄
 
-### Contribute 🤝
-<hr>
+<!-------------------------------------------------------------->
 
-~ooo~
+## CHEAT SHEET
 
-<br />
+### Text
 
-### Acknowledgements 💙
-<hr>
+This is *italic* text.
 
-~ooo~
+This is **bold** text.
 
-<br />
+This is ***bold and italic*** text.
 
-### License, Stats, Author 📜
-<hr>
-<!-- badge cluster -->
+This is ~~strike through~~ text.
 
-[~ooo~](https://shields.io/)
+This is a [link](example.com)
 
-<!-- / -->
-See [License](https://google.com) for the full license text.
+This is an email <jeanchoiii@gmail.com>
 
-This repository was authored by *Isaac Yep*.
+[emojis](https://unicode.org/emoji/charts/full-emoji-list.html) are valid! Press `Ctrl + Cmd + Space` to open emoji keyboard on MacOS.
 
-[Back to Table of Contents](#table-of-contents-)
-
-![Imgur](https://i.imgur.com/jtNwEWu.png)
-
-
-
-
-<!-- =============================================== -->
-<!-- =============================================== -->
-<!-- =============================================== -->
-
-
-
-
-<br /><br /><br /><br /><br /><br /><br />
-# **CHEAT SHEET**
-<br />
-
-*italic*
-
-<hr>
-
-**bold**
-
-<hr>
-
-~~strike through~~
-
-<hr>
-
-> this is a block quote
-> it goes like this
+> This is
 >
-> if you want space, put arrow head in blank line
-> you can also the the html `<blockquote>` tags
+> a block quote
 
-<hr>
+---
 
-### task list
-- [x] flip
-- [ ] flap
-- [ ] flop
+### Lists & Tables
 
-<hr>
+- [x] Banana
+- [x] Apple
+- [ ] Durian
 
-<ul>
-    <li>unordered list</li>
-</ul>
+1. First item
+2. Second item
+   1. Second item's child
 
-<hr>
+- First item
+- Second item
+  - Second item's child
 
-<ol>
-    <li>ordered list</li>
-</ol>
+1. First item
+   - I don't have an order!
 
-<hr>
+- First item
+  1. I have an order!
 
-| Col 1  | Col 2 |
-| ------------- | ------------- |
-| tables  | don't you  |
-| are fun  | think so?  |
+| Left   | Center  | Right   |
+| :---   |  :---:  |    ---: |
+| Hi     | Hola    | 안녕     |
+| Ciao   | Bonjour | Aloha   |
 
-<hr>
+---
 
-```print("This is code") ```
+### Code formatting
 
-<hr>
+in-line code: `print("This is code")`
+
+syntax highlighted block code:
 
 ```json
 {
-    "This is" : "specific code"
+  "note": "this is json specific code"
 }
 ```
 
-<hr>
+---
 
-emojis are fine 😍
-[emoji index](https://unicode.org/emoji/charts/full-emoji-list.html)
+### Links
 
-<hr>
+Section [link](https://google.com)
 
-not supported in *GitHub*:
+Relative path [link](path/to/file/readme.md)
 
-<span style="background-color: darkslategray; color: cyan"> text and highlight colors supported as inline-styles </span>
+---
 
-supported in *GitHub* (this may not display in other previewers):
+### Embedded Images
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
+#### Pure Markdown
 
-<hr>
+From external resource:
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-basic link [My ToolBox](https://anthonybench.github.io)
+From relative path:
+![relative image](images/pigeon.png)
 
-<hr>
+#### HTML
 
-email <anthonybenchyep@gmail.com>
+From external resource:
 
-<hr>
+- Advantage: can customize properties
+- Disadvantage: Use of HTML is not ideal
 
-basic image: \
-![Holochan!](https://i.imgur.com/oTopiyf.jpg)
-
-tagged image, more control, \
-you can stack image tags by adding the `align="left"` attribute: \
-<img  alt="example image tag" src="https://i.imgur.com/jtNwEWu.png" width="200" /> <br />
-
-<hr>
-
-section jump [`Table of Contents`](#table-of-contents-)
-
-(links must omit special characters and emojis, and spaces must have dashes. Underscores do not count as special characters. special means *anything* not alpha-numeric. this may not work in other previewers.)
-
-<hr>
-
-badges:
-
-* license/GitHub
-![GitHub](https://img.shields.io/github/license/anthonybench/Algorithms)
-* Analysis/HitHub top language
-![GitHub top language](https://img.shields.io/github/languages/top/anthonybench/Algorithms)
-* Analysis/GitHub language count
-![GitHub language count](https://img.shields.io/github/languages/count/anthonybench/anthonybench.github.io)
-* Make new badge: [shield.io](https://shields.io/)
-* [MIT License Link](https://opensource.org/licenses/MIT)
+<p align="center">
+  <img src="https://octodex.github.com/images/yaktocat.png" title="Yaktocat"  width="40%" >
+</p>
